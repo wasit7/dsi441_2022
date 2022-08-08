@@ -1,6 +1,6 @@
 # dsi441_2022
 
-# setup week01
+## setup week01
 ```bash
 $ git clone https://github.com/wasit7/dsi441_2022.git
 $ conda create -n dsi441_2022 python=3.8
