@@ -1,5 +1,4 @@
-# dsi441_2022
-
+# dsi441_2022 Deep Learing
 ## setup week01
 ```bash
 $ git clone https://github.com/wasit7/dsi441_2022.git
